@@ -1,5 +1,7 @@
 # ArogyaMate 🍎
 
+![Screenshot 1]([image_url](https://github.com/WATERMELONBOSS/ArogyaMate/blob/6c7d2edfb2e0599b1a10fa6bf3b242230c28dd7c/Picture%201.jpg))
+
 **ArogyaMate** is an AI-powered nutrition and lifestyle assistant designed to blend cultural awareness, personalized health insights, and modern UX into a single app.
 
 Built as a holistic wellness tracker, it empowers users to understand food better, stay accountable, and build long-term habits — powered by cutting-edge tech and crafted with real-world usability in mind.
