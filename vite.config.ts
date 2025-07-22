@@ -4,13 +4,12 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/ArogyaMate/", // 👈 Add this line
   server: {
     host: "::",
     port: 8080,
   },
-  plugins: [
-    react()
-  ],
+  plugins: [react()],
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
