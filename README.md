@@ -1,5 +1,5 @@
 # ArogyaMate 🍎
-/Users/milansrinivas/Downloads/coding-duck.gif
+
 **ArogyaMate** is an AI-powered nutrition and lifestyle assistant designed to blend cultural awareness, personalized health insights, and modern UX into a single app.
 
 Built as a holistic wellness tracker, it empowers users to understand food better, stay accountable, and build long-term habits — powered by cutting-edge tech and crafted with real-world usability in mind.
